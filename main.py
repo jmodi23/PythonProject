@@ -9,8 +9,6 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
 
-file = pd.read_csv("")
-
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
